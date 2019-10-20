@@ -1,0 +1,13 @@
+Package: com.mattech.callofdutymod
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: MatTech <matey.mathyoo771@gmail.com>
+Filename: /Callofduty mod.deb
+Size: 1045018
+MD5sum: 40e3b6c8bd92edc020c9080fd751c1c0
+SHA1: a806a7659b8e15ba49382fa3ff4cab23476b4611
+SHA256: 996d83d3c5fa4324d30798377aba5f9074ff886d5fba8d9cee381cd3b1812d7
+Section: Tweaks
+Description: First tweak
+Author: MatTech <matey.mathyoo771@gmail.com>
+Name: Call Of Duty Mobile Mod
